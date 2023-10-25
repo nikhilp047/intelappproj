@@ -1,0 +1,6 @@
+customhost = "intellapat2.cwdgju6rff5l.us-east-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "adminrds"
+customdb = "employee"
+custombucket = "myadddemployee"
+customregion = "us-east-1"
